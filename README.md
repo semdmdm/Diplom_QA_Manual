@@ -2,9 +2,9 @@
 
 **Links:**
 
-[Веб-приложение: Яндекс.Самокат](https://qa-scooter.praktikum-services.ru/)
-[Требования к приложению](https://code.s3.yandex.net/qa/files/requirements_web_app_1.1.pdf)
-[Макеты в Figma](https://www.figma.com/file/vHgTVzFac8zyxhMZ2o4b2m/web)
+1. [Веб-приложение: Яндекс.Самокат](https://qa-scooter.praktikum-services.ru/)
+2. [Требования к приложению](https://code.s3.yandex.net/qa/files/requirements_web_app_1.1.pdf)
+3. [Макеты в Figma](https://www.figma.com/file/vHgTVzFac8zyxhMZ2o4b2m/web)
 
 **Задания:**
 
@@ -27,9 +27,9 @@
 
 **Links:**
 
-[Мобильное-приложение: Яндекс.Самокат](https://code.s3.yandex.net/qa/files/scooter-v2.0.apk)
-[Требования к приложению](https://code.s3.yandex.net/qa/files/requirements_mob_app.pdf)
-[Макеты в Figma](https://www.figma.com/file/kqLqPvSvjLVLomkdadkAnk/mobile)
+1. [Мобильное-приложение: Яндекс.Самокат](https://code.s3.yandex.net/qa/files/scooter-v2.0.apk)
+2. [Требования к приложению](https://code.s3.yandex.net/qa/files/requirements_mob_app.pdf)
+3. [Макеты в Figma](https://www.figma.com/file/kqLqPvSvjLVLomkdadkAnk/mobile)
 
 **Задания:**
 
@@ -47,9 +47,9 @@
 
 **Links:**
 
-[Веб-приложение: Яндекс.Самокат](https://qa-scooter.praktikum-services.ru/)
-[Требования к бэкенду](https://code.s3.yandex.net/qa/files/requirements_backend.pdf)
-[API-документация] (https://qa-scooter.praktikum-services.ru/docs/)
+1. [Веб-приложение: Яндекс.Самокат](https://qa-scooter.praktikum-services.ru/)
+2. [Требования к бэкенду](https://code.s3.yandex.net/qa/files/requirements_backend.pdf)
+3. [API-документация] (https://qa-scooter.praktikum-services.ru/docs/)
 
 **Задания:**
 
