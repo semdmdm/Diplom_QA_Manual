@@ -49,7 +49,7 @@
 
 1. [Веб-приложение: Яндекс.Самокат](https://qa-scooter.praktikum-services.ru/)
 2. [Требования к бэкенду](https://code.s3.yandex.net/qa/files/requirements_backend.pdf)
-3. [API-документация] (https://qa-scooter.praktikum-services.ru/docs/)
+3. [API-документация](https://qa-scooter.praktikum-services.ru/docs/)
 
 **Задания:**
 
